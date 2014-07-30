@@ -892,3 +892,4 @@ if((!$viewAttachment) && (!$viewAttachment && $action != 'home_rss') && $action 
 		include('modules/Vtiger/footer.php');
 }
 ?>
+<!-- This is an added comment -- Line 1 -->
